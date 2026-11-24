@@ -1,0 +1,14 @@
+.vs/
+Debug/
+Release/
+x64/
+x86/
+*.user
+*.suo
+*.obj
+*.exe
+*.pdb
+output.txt
+output2.txt
+encryptedFile.txt
+decryptedFile.txt
